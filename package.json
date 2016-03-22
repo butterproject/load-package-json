@@ -1,0 +1,24 @@
+{
+  "name": "load-package-json",
+  "version": "0.0.1",
+  "description": "Load package.json from some parent directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butterproject/load-package-json.git"
+  },
+  "keywords": [
+    "package.json",
+    "butter",
+    "load"
+  ],
+  "author": "Niv Sardi <x@btn.sh>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/butterproject/load-package-json/issues"
+  },
+  "homepage": "https://github.com/butterproject/load-package-json#readme"
+}
